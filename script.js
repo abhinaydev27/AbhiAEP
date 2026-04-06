@@ -9,8 +9,8 @@ const portfolioCategories = [
         title: "Biography Edit",
         note: "Long-form storytelling",
         kicker: "Faceless Story",
-        kind: "drive",
-        src: "https://drive.google.com/uc?export=view&id=1nWLtINxNTQbA_OCi95Y9i_gT_CXtAVGf",
+        kind: "drive-preview",
+        src: "https://drive.google.com/file/d/1nWLtINxNTQbA_OCi95Y9i_gT_CXtAVGf/preview",
         poster: "https://drive.google.com/thumbnail?id=1nWLtINxNTQbA_OCi95Y9i_gT_CXtAVGf&sz=w1600",
         source: "https://drive.google.com/file/d/1nWLtINxNTQbA_OCi95Y9i_gT_CXtAVGf/view?usp=sharing"
       },
@@ -18,8 +18,8 @@ const portfolioCategories = [
         title: "Gaming Breakdown",
         note: "Built for engagement",
         kicker: "Faceless Story",
-        kind: "drive",
-        src: "https://drive.google.com/uc?export=view&id=1B3KKTz0ud35zks7UCGU1VYLTsIfXWvDm",
+        kind: "drive-preview",
+        src: "https://drive.google.com/file/d/1B3KKTz0ud35zks7UCGU1VYLTsIfXWvDm/preview",
         poster: "https://drive.google.com/thumbnail?id=1B3KKTz0ud35zks7UCGU1VYLTsIfXWvDm&sz=w1600",
         source: "https://drive.google.com/file/d/1B3KKTz0ud35zks7UCGU1VYLTsIfXWvDm/view?usp=sharing"
       },
@@ -27,8 +27,8 @@ const portfolioCategories = [
         title: "Sports Story Edit",
         note: "Narrative-led pacing",
         kicker: "Faceless Story",
-        kind: "drive",
-        src: "https://drive.google.com/uc?export=view&id=1ncQBcD4G1ks6sdDSBvEHhl9_AT4FRPSj",
+        kind: "drive-preview",
+        src: "https://drive.google.com/file/d/1ncQBcD4G1ks6sdDSBvEHhl9_AT4FRPSj/preview",
         poster: "https://drive.google.com/thumbnail?id=1ncQBcD4G1ks6sdDSBvEHhl9_AT4FRPSj&sz=w1600",
         source: "https://drive.google.com/file/d/1ncQBcD4G1ks6sdDSBvEHhl9_AT4FRPSj/view?usp=sharing"
       }
@@ -44,8 +44,8 @@ const portfolioCategories = [
         title: "Promo Cut 01",
         note: "Hook-first ad creative",
         kicker: "Ad Creative",
-        kind: "drive",
-        src: "https://drive.google.com/uc?export=view&id=19BL_h6rhENtlLfMo_SDHV0hVIY8dEXVb",
+        kind: "drive-preview",
+        src: "https://drive.google.com/file/d/19BL_h6rhENtlLfMo_SDHV0hVIY8dEXVb/preview",
         poster: "https://drive.google.com/thumbnail?id=19BL_h6rhENtlLfMo_SDHV0hVIY8dEXVb&sz=w1600",
         source: "https://drive.google.com/file/d/19BL_h6rhENtlLfMo_SDHV0hVIY8dEXVb/view?usp=sharing"
       },
@@ -53,8 +53,8 @@ const portfolioCategories = [
         title: "Hook Test 02",
         note: "Built to grab fast",
         kicker: "Ad Creative",
-        kind: "drive",
-        src: "https://drive.google.com/uc?export=view&id=1M2DqlgYY9mk3Z95mgT9fQTYVVw4cSGDO",
+        kind: "drive-preview",
+        src: "https://drive.google.com/file/d/1M2DqlgYY9mk3Z95mgT9fQTYVVw4cSGDO/preview",
         poster: "https://drive.google.com/thumbnail?id=1M2DqlgYY9mk3Z95mgT9fQTYVVw4cSGDO&sz=w1600",
         source: "https://drive.google.com/file/d/1M2DqlgYY9mk3Z95mgT9fQTYVVw4cSGDO/view?usp=sharing"
       },
@@ -62,8 +62,8 @@ const portfolioCategories = [
         title: "Brand Spot 03",
         note: "Quick promotional cut",
         kicker: "Ad Creative",
-        kind: "drive",
-        src: "https://drive.google.com/uc?export=view&id=185av9t0s0bj7FqxxQVocic0-FwHjvkbq",
+        kind: "drive-preview",
+        src: "https://drive.google.com/file/d/185av9t0s0bj7FqxxQVocic0-FwHjvkbq/preview",
         poster: "https://drive.google.com/thumbnail?id=185av9t0s0bj7FqxxQVocic0-FwHjvkbq&sz=w1600",
         source: "https://drive.google.com/file/d/185av9t0s0bj7FqxxQVocic0-FwHjvkbq/view?usp=sharing"
       }
@@ -79,8 +79,8 @@ const portfolioCategories = [
         title: "Reel Cut 01",
         note: "Fast and punchy",
         kicker: "Short Form",
-        kind: "drive",
-        src: "https://drive.google.com/uc?export=view&id=1JPBeG6Y7NbE93VgXdi459zOox0lM88X0",
+        kind: "drive-preview",
+        src: "https://drive.google.com/file/d/1JPBeG6Y7NbE93VgXdi459zOox0lM88X0/preview",
         poster: "https://drive.google.com/thumbnail?id=1JPBeG6Y7NbE93VgXdi459zOox0lM88X0&sz=w1600",
         source: "https://drive.google.com/file/d/1JPBeG6Y7NbE93VgXdi459zOox0lM88X0/view?usp=sharing"
       },
@@ -105,8 +105,8 @@ const portfolioCategories = [
         title: "Anime Cut 01",
         note: "Tension and release",
         kicker: "Anime / AMV",
-        kind: "drive",
-        src: "https://drive.google.com/uc?export=view&id=1DYjI-dGiO1pUg-mdrxzLYpvWtnm-uYS_",
+        kind: "drive-preview",
+        src: "https://drive.google.com/file/d/1DYjI-dGiO1pUg-mdrxzLYpvWtnm-uYS_/preview",
         poster: "https://drive.google.com/thumbnail?id=1DYjI-dGiO1pUg-mdrxzLYpvWtnm-uYS_&sz=w1600",
         source: "https://drive.google.com/file/d/1DYjI-dGiO1pUg-mdrxzLYpvWtnm-uYS_/view?usp=sharing"
       },
@@ -114,8 +114,8 @@ const portfolioCategories = [
         title: "AMV Cut 02",
         note: "Rhythmic anime storytelling",
         kicker: "Anime / AMV",
-        kind: "drive",
-        src: "https://drive.google.com/uc?export=view&id=1rCb4tZ5l0zj5fDgMrPk7fpMBmV9WeODf",
+        kind: "drive-preview",
+        src: "https://drive.google.com/file/d/1rCb4tZ5l0zj5fDgMrPk7fpMBmV9WeODf/preview",
         poster: "https://drive.google.com/thumbnail?id=1rCb4tZ5l0zj5fDgMrPk7fpMBmV9WeODf&sz=w1600",
         source: "https://drive.google.com/file/d/1rCb4tZ5l0zj5fDgMrPk7fpMBmV9WeODf/view?usp=sharing"
       },
@@ -131,8 +131,8 @@ const portfolioCategories = [
         title: "Long Form Cut 01",
         note: "Extended character-driven storytelling",
         kicker: "Long Form",
-        kind: "drive",
-        src: "https://drive.google.com/uc?export=view&id=1qTA3PbLEGXBNJmQEwJqVY_wuwhJI2H6_",
+        kind: "drive-preview",
+        src: "https://drive.google.com/file/d/1qTA3PbLEGXBNJmQEwJqVY_wuwhJI2H6_/preview",
         poster: "https://drive.google.com/thumbnail?id=1qTA3PbLEGXBNJmQEwJqVY_wuwhJI2H6_&sz=w1600",
         source: "https://drive.google.com/file/d/1qTA3PbLEGXBNJmQEwJqVY_wuwhJI2H6_/view?usp=share_link"
       }
@@ -180,10 +180,6 @@ function createCard(item, tone) {
             alt="${item.title} thumbnail"
             loading="lazy"
           />
-          <span class="video-thumb-copy">
-            <span class="video-thumb-kicker">${item.kicker}</span>
-            <span class="video-thumb-title">${item.title}</span>
-          </span>
           <span class="video-launch-icon"></span>
           <span class="video-launch-copy">Play Sample</span>
         </button>
@@ -267,19 +263,14 @@ function buildMediaElement(shell) {
   const kind = shell.dataset.videoKind;
   const poster = shell.dataset.videoPoster;
 
-  if (kind === "drive") {
-    const video = document.createElement("video");
-    video.src = src;
-    video.title = title;
-    video.controls = true;
-    video.autoplay = true;
-    video.playsInline = true;
-    video.preload = "metadata";
-    video.controlsList = "nodownload";
-    if (poster) {
-      video.poster = poster;
-    }
-    return video;
+  if (kind === "drive-preview") {
+    const iframe = document.createElement("iframe");
+    iframe.src = src.includes("?") ? `${src}&autoplay=1` : `${src}?autoplay=1`;
+    iframe.title = title;
+    iframe.loading = "lazy";
+    iframe.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+    iframe.allowFullscreen = true;
+    return iframe;
   }
 
   const iframe = document.createElement("iframe");
@@ -327,12 +318,12 @@ function setupVideoShells() {
       }
 
       const media = buildMediaElement(shell);
+      if (!media) {
+        return;
+      }
+
       shell.appendChild(media);
       shell.classList.add("is-active");
-
-      if (media.tagName === "VIDEO") {
-        media.play().catch(() => {});
-      }
     });
   });
 }
