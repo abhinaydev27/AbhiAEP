@@ -18,7 +18,10 @@ const portfolioCategories = [
         title: "Gaming Breakdown",
         note: "Built for engagement",
         kicker: "Faceless Story",
-        source: "mailto:abhinaydev27@gmail.com"
+        kind: "youtube",
+        src: "https://www.youtube.com/embed/AUdwklthPcs?rel=0",
+        poster: "https://i.ytimg.com/vi/AUdwklthPcs/hqdefault.jpg",
+        source: "https://youtu.be/AUdwklthPcs"
       },
       {
         title: "Sports Story Edit",
@@ -51,18 +54,18 @@ const portfolioCategories = [
         note: "Built to grab fast",
         kicker: "Ad Creative",
         kind: "youtube",
-        src: "https://www.youtube.com/embed/6sYZ2L0KKZU?rel=0",
-        poster: "https://i.ytimg.com/vi/6sYZ2L0KKZU/hqdefault.jpg",
-        source: "https://youtube.com/shorts/6sYZ2L0KKZU?feature=share"
+        src: "https://www.youtube.com/embed/N6TCxz3QcTQ?rel=0",
+        poster: "https://i.ytimg.com/vi/N6TCxz3QcTQ/hqdefault.jpg",
+        source: "https://youtu.be/N6TCxz3QcTQ"
       },
       {
         title: "Brand Spot 03",
         note: "Quick promotional cut",
         kicker: "Ad Creative",
         kind: "youtube",
-        src: "https://www.youtube.com/embed/gg5MH3dnOS8?rel=0",
-        poster: "https://i.ytimg.com/vi/gg5MH3dnOS8/hqdefault.jpg",
-        source: "https://youtu.be/gg5MH3dnOS8"
+        src: "https://www.youtube.com/embed/ysmS6BMelC4?rel=0",
+        poster: "https://i.ytimg.com/vi/ysmS6BMelC4/hqdefault.jpg",
+        source: "https://youtube.com/shorts/ysmS6BMelC4?feature=share"
       }
     ]
   },
@@ -77,18 +80,18 @@ const portfolioCategories = [
         note: "Fast and punchy",
         kicker: "Short Form",
         kind: "youtube",
-        src: "https://www.youtube.com/embed/0O3bs8L8JhI?rel=0",
-        poster: "https://i.ytimg.com/vi/0O3bs8L8JhI/hqdefault.jpg",
-        source: "https://youtube.com/shorts/0O3bs8L8JhI?feature=share"
+        src: "https://www.youtube.com/embed/y3GoxJVZhDI?rel=0",
+        poster: "https://i.ytimg.com/vi/y3GoxJVZhDI/hqdefault.jpg",
+        source: "https://youtube.com/shorts/y3GoxJVZhDI?feature=share"
       },
       {
         title: "Shorts Cut 02",
         note: "Built for instant retention",
         kicker: "Short Form",
         kind: "youtube",
-        src: "https://www.youtube.com/embed/ysmS6BMelC4?rel=0",
-        poster: "https://i.ytimg.com/vi/ysmS6BMelC4/hqdefault.jpg",
-        source: "https://youtube.com/shorts/ysmS6BMelC4?feature=share"
+        src: "https://www.youtube.com/embed/6sYZ2L0KKZU?rel=0",
+        poster: "https://i.ytimg.com/vi/6sYZ2L0KKZU/hqdefault.jpg",
+        source: "https://youtube.com/shorts/6sYZ2L0KKZU?feature=share"
       }
     ]
   },
@@ -103,9 +106,9 @@ const portfolioCategories = [
         note: "Tension and release",
         kicker: "Anime / AMV",
         kind: "youtube",
-        src: "https://www.youtube.com/embed/y3GoxJVZhDI?rel=0",
-        poster: "https://i.ytimg.com/vi/y3GoxJVZhDI/hqdefault.jpg",
-        source: "https://youtube.com/shorts/y3GoxJVZhDI?feature=share"
+        src: "https://www.youtube.com/embed/0O3bs8L8JhI?rel=0",
+        poster: "https://i.ytimg.com/vi/0O3bs8L8JhI/hqdefault.jpg",
+        source: "https://youtube.com/shorts/0O3bs8L8JhI?feature=share"
       },
       {
         title: "AMV Cut 02",
@@ -126,12 +129,9 @@ const portfolioCategories = [
     items: [
       {
         title: "Long Form Cut 01",
-        note: "Extended character-driven storytelling",
+        note: "Missing link for now",
         kicker: "Long Form",
-        kind: "youtube",
-        src: "https://www.youtube.com/embed/N6TCxz3QcTQ?rel=0",
-        poster: "https://i.ytimg.com/vi/N6TCxz3QcTQ/hqdefault.jpg",
-        source: "https://youtu.be/N6TCxz3QcTQ"
+        source: "mailto:abhinaydev27@gmail.com"
       }
     ]
   },
