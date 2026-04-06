@@ -1,0 +1,15 @@
+{
+  "name": "Abhinay Yadav | Video Editor",
+  "short_name": "Abhinay Portfolio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
