@@ -10,7 +10,7 @@ const portfolioCategories = [
         note: "Long-form storytelling",
         kicker: "Faceless Story",
         kind: "drive",
-        src: "https://drive.google.com/uc?export=download&id=1nWLtINxNTQbA_OCi95Y9i_gT_CXtAVGf",
+        src: "https://drive.google.com/uc?export=view&id=1nWLtINxNTQbA_OCi95Y9i_gT_CXtAVGf",
         poster: "https://drive.google.com/thumbnail?id=1nWLtINxNTQbA_OCi95Y9i_gT_CXtAVGf&sz=w1600",
         source: "https://drive.google.com/file/d/1nWLtINxNTQbA_OCi95Y9i_gT_CXtAVGf/view?usp=sharing"
       },
@@ -19,7 +19,7 @@ const portfolioCategories = [
         note: "Built for engagement",
         kicker: "Faceless Story",
         kind: "drive",
-        src: "https://drive.google.com/uc?export=download&id=1B3KKTz0ud35zks7UCGU1VYLTsIfXWvDm",
+        src: "https://drive.google.com/uc?export=view&id=1B3KKTz0ud35zks7UCGU1VYLTsIfXWvDm",
         poster: "https://drive.google.com/thumbnail?id=1B3KKTz0ud35zks7UCGU1VYLTsIfXWvDm&sz=w1600",
         source: "https://drive.google.com/file/d/1B3KKTz0ud35zks7UCGU1VYLTsIfXWvDm/view?usp=sharing"
       },
@@ -28,7 +28,7 @@ const portfolioCategories = [
         note: "Narrative-led pacing",
         kicker: "Faceless Story",
         kind: "drive",
-        src: "https://drive.google.com/uc?export=download&id=1ncQBcD4G1ks6sdDSBvEHhl9_AT4FRPSj",
+        src: "https://drive.google.com/uc?export=view&id=1ncQBcD4G1ks6sdDSBvEHhl9_AT4FRPSj",
         poster: "https://drive.google.com/thumbnail?id=1ncQBcD4G1ks6sdDSBvEHhl9_AT4FRPSj&sz=w1600",
         source: "https://drive.google.com/file/d/1ncQBcD4G1ks6sdDSBvEHhl9_AT4FRPSj/view?usp=sharing"
       }
@@ -45,7 +45,7 @@ const portfolioCategories = [
         note: "Hook-first ad creative",
         kicker: "Ad Creative",
         kind: "drive",
-        src: "https://drive.google.com/uc?export=download&id=19BL_h6rhENtlLfMo_SDHV0hVIY8dEXVb",
+        src: "https://drive.google.com/uc?export=view&id=19BL_h6rhENtlLfMo_SDHV0hVIY8dEXVb",
         poster: "https://drive.google.com/thumbnail?id=19BL_h6rhENtlLfMo_SDHV0hVIY8dEXVb&sz=w1600",
         source: "https://drive.google.com/file/d/19BL_h6rhENtlLfMo_SDHV0hVIY8dEXVb/view?usp=sharing"
       },
@@ -54,7 +54,7 @@ const portfolioCategories = [
         note: "Built to grab fast",
         kicker: "Ad Creative",
         kind: "drive",
-        src: "https://drive.google.com/uc?export=download&id=1M2DqlgYY9mk3Z95mgT9fQTYVVw4cSGDO",
+        src: "https://drive.google.com/uc?export=view&id=1M2DqlgYY9mk3Z95mgT9fQTYVVw4cSGDO",
         poster: "https://drive.google.com/thumbnail?id=1M2DqlgYY9mk3Z95mgT9fQTYVVw4cSGDO&sz=w1600",
         source: "https://drive.google.com/file/d/1M2DqlgYY9mk3Z95mgT9fQTYVVw4cSGDO/view?usp=sharing"
       },
@@ -63,7 +63,7 @@ const portfolioCategories = [
         note: "Quick promotional cut",
         kicker: "Ad Creative",
         kind: "drive",
-        src: "https://drive.google.com/uc?export=download&id=185av9t0s0bj7FqxxQVocic0-FwHjvkbq",
+        src: "https://drive.google.com/uc?export=view&id=185av9t0s0bj7FqxxQVocic0-FwHjvkbq",
         poster: "https://drive.google.com/thumbnail?id=185av9t0s0bj7FqxxQVocic0-FwHjvkbq&sz=w1600",
         source: "https://drive.google.com/file/d/185av9t0s0bj7FqxxQVocic0-FwHjvkbq/view?usp=sharing"
       }
@@ -80,7 +80,7 @@ const portfolioCategories = [
         note: "Fast and punchy",
         kicker: "Short Form",
         kind: "drive",
-        src: "https://drive.google.com/uc?export=download&id=1JPBeG6Y7NbE93VgXdi459zOox0lM88X0",
+        src: "https://drive.google.com/uc?export=view&id=1JPBeG6Y7NbE93VgXdi459zOox0lM88X0",
         poster: "https://drive.google.com/thumbnail?id=1JPBeG6Y7NbE93VgXdi459zOox0lM88X0&sz=w1600",
         source: "https://drive.google.com/file/d/1JPBeG6Y7NbE93VgXdi459zOox0lM88X0/view?usp=sharing"
       },
@@ -106,7 +106,7 @@ const portfolioCategories = [
         note: "Tension and release",
         kicker: "Anime / AMV",
         kind: "drive",
-        src: "https://drive.google.com/uc?export=download&id=1DYjI-dGiO1pUg-mdrxzLYpvWtnm-uYS_",
+        src: "https://drive.google.com/uc?export=view&id=1DYjI-dGiO1pUg-mdrxzLYpvWtnm-uYS_",
         poster: "https://drive.google.com/thumbnail?id=1DYjI-dGiO1pUg-mdrxzLYpvWtnm-uYS_&sz=w1600",
         source: "https://drive.google.com/file/d/1DYjI-dGiO1pUg-mdrxzLYpvWtnm-uYS_/view?usp=sharing"
       },
@@ -115,16 +115,24 @@ const portfolioCategories = [
         note: "Rhythmic anime storytelling",
         kicker: "Anime / AMV",
         kind: "drive",
-        src: "https://drive.google.com/uc?export=download&id=1rCb4tZ5l0zj5fDgMrPk7fpMBmV9WeODf",
+        src: "https://drive.google.com/uc?export=view&id=1rCb4tZ5l0zj5fDgMrPk7fpMBmV9WeODf",
         poster: "https://drive.google.com/thumbnail?id=1rCb4tZ5l0zj5fDgMrPk7fpMBmV9WeODf&sz=w1600",
         source: "https://drive.google.com/file/d/1rCb4tZ5l0zj5fDgMrPk7fpMBmV9WeODf/view?usp=sharing"
       },
+    ]
+  },
+  {
+    title: "Long Form",
+    accent: "Story Lane",
+    tone: "orange",
+    description: "Longer cuts shaped for story flow, hold time, and stronger progression.",
+    items: [
       {
-        title: "Anime Cut 03",
-        note: "High-energy character edit",
-        kicker: "Anime / AMV",
+        title: "Long Form Cut 01",
+        note: "Extended character-driven storytelling",
+        kicker: "Long Form",
         kind: "drive",
-        src: "https://drive.google.com/uc?export=download&id=1qTA3PbLEGXBNJmQEwJqVY_wuwhJI2H6_",
+        src: "https://drive.google.com/uc?export=view&id=1qTA3PbLEGXBNJmQEwJqVY_wuwhJI2H6_",
         poster: "https://drive.google.com/thumbnail?id=1qTA3PbLEGXBNJmQEwJqVY_wuwhJI2H6_&sz=w1600",
         source: "https://drive.google.com/file/d/1qTA3PbLEGXBNJmQEwJqVY_wuwhJI2H6_/view?usp=share_link"
       }
@@ -150,6 +158,7 @@ const portfolioStack = document.querySelector("#portfolio-stack");
 const projectCount = document.querySelector("#project-count");
 const categoryCount = document.querySelector("#category-count");
 const yearNode = document.querySelector("#year");
+const copyButtons = document.querySelectorAll(".contact-copy-btn");
 
 function createCard(item, tone) {
   const card = document.createElement("article");
@@ -266,6 +275,7 @@ function buildMediaElement(shell) {
     video.autoplay = true;
     video.playsInline = true;
     video.preload = "metadata";
+    video.controlsList = "nodownload";
     if (poster) {
       video.poster = poster;
     }
@@ -316,8 +326,35 @@ function setupVideoShells() {
         existingMedia.remove();
       }
 
-      shell.appendChild(buildMediaElement(shell));
+      const media = buildMediaElement(shell);
+      shell.appendChild(media);
       shell.classList.add("is-active");
+
+      if (media.tagName === "VIDEO") {
+        media.play().catch(() => {});
+      }
+    });
+  });
+}
+
+function setupCopyButtons() {
+  copyButtons.forEach((button) => {
+    button.addEventListener("click", async () => {
+      const originalLabel = button.querySelector(".contact-meta span");
+      const copyText = button.dataset.copyText;
+
+      try {
+        await navigator.clipboard.writeText(copyText);
+        originalLabel.textContent = "Copied to clipboard";
+        window.setTimeout(() => {
+          originalLabel.textContent = "@abhinai27";
+        }, 1600);
+      } catch {
+        originalLabel.textContent = "Copy failed";
+        window.setTimeout(() => {
+          originalLabel.textContent = "@abhinai27";
+        }, 1600);
+      }
     });
   });
 }
@@ -326,3 +363,4 @@ renderBands();
 setupCounts();
 setupReveal();
 setupVideoShells();
+setupCopyButtons();
