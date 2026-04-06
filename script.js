@@ -265,7 +265,7 @@ function buildMediaElement(shell) {
 
   if (kind === "drive-preview") {
     const iframe = document.createElement("iframe");
-    iframe.src = src.includes("?") ? `${src}&autoplay=1` : `${src}?autoplay=1`;
+    iframe.src = src;
     iframe.title = title;
     iframe.loading = "lazy";
     iframe.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
