@@ -9,28 +9,28 @@ const portfolioCategories = [
         title: "Biography Edit",
         note: "Long-form storytelling",
         kicker: "Faceless Story",
-        kind: "drive-preview",
-        src: "https://drive.google.com/file/d/1nWLtINxNTQbA_OCi95Y9i_gT_CXtAVGf/preview",
-        poster: "https://drive.google.com/thumbnail?id=1nWLtINxNTQbA_OCi95Y9i_gT_CXtAVGf&sz=w1600",
-        source: "https://drive.google.com/file/d/1nWLtINxNTQbA_OCi95Y9i_gT_CXtAVGf/view?usp=sharing"
+        kind: "youtube",
+        src: "https://www.youtube.com/embed/frLw4JbUqVM?rel=0",
+        poster: "https://i.ytimg.com/vi/frLw4JbUqVM/hqdefault.jpg",
+        source: "https://youtu.be/frLw4JbUqVM"
       },
       {
         title: "Gaming Breakdown",
         note: "Built for engagement",
         kicker: "Faceless Story",
-        kind: "drive-preview",
-        src: "https://drive.google.com/file/d/1B3KKTz0ud35zks7UCGU1VYLTsIfXWvDm/preview",
-        poster: "https://drive.google.com/thumbnail?id=1B3KKTz0ud35zks7UCGU1VYLTsIfXWvDm&sz=w1600",
-        source: "https://drive.google.com/file/d/1B3KKTz0ud35zks7UCGU1VYLTsIfXWvDm/view?usp=sharing"
+        kind: "youtube",
+        src: "https://www.youtube.com/embed/AUdwklthPcs?rel=0",
+        poster: "https://i.ytimg.com/vi/AUdwklthPcs/hqdefault.jpg",
+        source: "https://youtu.be/AUdwklthPcs"
       },
       {
         title: "Sports Story Edit",
         note: "Narrative-led pacing",
         kicker: "Faceless Story",
-        kind: "drive-preview",
-        src: "https://drive.google.com/file/d/1ncQBcD4G1ks6sdDSBvEHhl9_AT4FRPSj/preview",
-        poster: "https://drive.google.com/thumbnail?id=1ncQBcD4G1ks6sdDSBvEHhl9_AT4FRPSj&sz=w1600",
-        source: "https://drive.google.com/file/d/1ncQBcD4G1ks6sdDSBvEHhl9_AT4FRPSj/view?usp=sharing"
+        kind: "youtube",
+        src: "https://www.youtube.com/embed/gg5MH3dnOS8?rel=0",
+        poster: "https://i.ytimg.com/vi/gg5MH3dnOS8/hqdefault.jpg",
+        source: "https://youtu.be/gg5MH3dnOS8"
       }
     ]
   },
@@ -44,28 +44,28 @@ const portfolioCategories = [
         title: "Promo Cut 01",
         note: "Hook-first ad creative",
         kicker: "Ad Creative",
-        kind: "drive-preview",
-        src: "https://drive.google.com/file/d/19BL_h6rhENtlLfMo_SDHV0hVIY8dEXVb/preview",
-        poster: "https://drive.google.com/thumbnail?id=19BL_h6rhENtlLfMo_SDHV0hVIY8dEXVb&sz=w1600",
-        source: "https://drive.google.com/file/d/19BL_h6rhENtlLfMo_SDHV0hVIY8dEXVb/view?usp=sharing"
+        kind: "youtube",
+        src: "https://www.youtube.com/embed/T95pmYmxY6Y?rel=0",
+        poster: "https://i.ytimg.com/vi/T95pmYmxY6Y/hqdefault.jpg",
+        source: "https://youtu.be/T95pmYmxY6Y"
       },
       {
         title: "Hook Test 02",
         note: "Built to grab fast",
         kicker: "Ad Creative",
-        kind: "drive-preview",
-        src: "https://drive.google.com/file/d/1M2DqlgYY9mk3Z95mgT9fQTYVVw4cSGDO/preview",
-        poster: "https://drive.google.com/thumbnail?id=1M2DqlgYY9mk3Z95mgT9fQTYVVw4cSGDO&sz=w1600",
-        source: "https://drive.google.com/file/d/1M2DqlgYY9mk3Z95mgT9fQTYVVw4cSGDO/view?usp=sharing"
+        kind: "youtube",
+        src: "https://www.youtube.com/embed/N6TCxz3QcTQ?rel=0",
+        poster: "https://i.ytimg.com/vi/N6TCxz3QcTQ/hqdefault.jpg",
+        source: "https://youtu.be/N6TCxz3QcTQ"
       },
       {
         title: "Brand Spot 03",
         note: "Quick promotional cut",
         kicker: "Ad Creative",
-        kind: "drive-preview",
-        src: "https://drive.google.com/file/d/185av9t0s0bj7FqxxQVocic0-FwHjvkbq/preview",
-        poster: "https://drive.google.com/thumbnail?id=185av9t0s0bj7FqxxQVocic0-FwHjvkbq&sz=w1600",
-        source: "https://drive.google.com/file/d/185av9t0s0bj7FqxxQVocic0-FwHjvkbq/view?usp=sharing"
+        kind: "youtube",
+        src: "https://www.youtube.com/embed/ysmS6BMelC4?rel=0",
+        poster: "https://i.ytimg.com/vi/ysmS6BMelC4/hqdefault.jpg",
+        source: "https://youtube.com/shorts/ysmS6BMelC4?feature=share"
       }
     ]
   },
@@ -79,19 +79,19 @@ const portfolioCategories = [
         title: "Reel Cut 01",
         note: "Fast and punchy",
         kicker: "Short Form",
-        kind: "drive-preview",
-        src: "https://drive.google.com/file/d/1JPBeG6Y7NbE93VgXdi459zOox0lM88X0/preview",
-        poster: "https://drive.google.com/thumbnail?id=1JPBeG6Y7NbE93VgXdi459zOox0lM88X0&sz=w1600",
-        source: "https://drive.google.com/file/d/1JPBeG6Y7NbE93VgXdi459zOox0lM88X0/view?usp=sharing"
+        kind: "youtube",
+        src: "https://www.youtube.com/embed/y3GoxJVZhDI?rel=0",
+        poster: "https://i.ytimg.com/vi/y3GoxJVZhDI/hqdefault.jpg",
+        source: "https://youtube.com/shorts/y3GoxJVZhDI?feature=share"
       },
       {
         title: "Shorts Cut 02",
         note: "Built for instant retention",
         kicker: "Short Form",
         kind: "youtube",
-        src: "https://www.youtube.com/embed/7n62W-qWUz0?rel=0",
-        poster: "https://i.ytimg.com/vi/7n62W-qWUz0/hqdefault.jpg",
-        source: "https://youtube.com/shorts/7n62W-qWUz0?feature=share"
+        src: "https://www.youtube.com/embed/6sYZ2L0KKZU?rel=0",
+        poster: "https://i.ytimg.com/vi/6sYZ2L0KKZU/hqdefault.jpg",
+        source: "https://youtube.com/shorts/6sYZ2L0KKZU?feature=share"
       }
     ]
   },
@@ -105,19 +105,19 @@ const portfolioCategories = [
         title: "Anime Cut 01",
         note: "Tension and release",
         kicker: "Anime / AMV",
-        kind: "drive-preview",
-        src: "https://drive.google.com/file/d/1DYjI-dGiO1pUg-mdrxzLYpvWtnm-uYS_/preview",
-        poster: "https://drive.google.com/thumbnail?id=1DYjI-dGiO1pUg-mdrxzLYpvWtnm-uYS_&sz=w1600",
-        source: "https://drive.google.com/file/d/1DYjI-dGiO1pUg-mdrxzLYpvWtnm-uYS_/view?usp=sharing"
+        kind: "youtube",
+        src: "https://www.youtube.com/embed/0O3bs8L8JhI?rel=0",
+        poster: "https://i.ytimg.com/vi/0O3bs8L8JhI/hqdefault.jpg",
+        source: "https://youtube.com/shorts/0O3bs8L8JhI?feature=share"
       },
       {
         title: "AMV Cut 02",
         note: "Rhythmic anime storytelling",
         kicker: "Anime / AMV",
-        kind: "drive-preview",
-        src: "https://drive.google.com/file/d/1rCb4tZ5l0zj5fDgMrPk7fpMBmV9WeODf/preview",
-        poster: "https://drive.google.com/thumbnail?id=1rCb4tZ5l0zj5fDgMrPk7fpMBmV9WeODf&sz=w1600",
-        source: "https://drive.google.com/file/d/1rCb4tZ5l0zj5fDgMrPk7fpMBmV9WeODf/view?usp=sharing"
+        kind: "youtube",
+        src: "https://www.youtube.com/embed/Kw6rgom6fvc?rel=0",
+        poster: "https://i.ytimg.com/vi/Kw6rgom6fvc/hqdefault.jpg",
+        source: "https://youtube.com/shorts/Kw6rgom6fvc?feature=share"
       },
     ]
   },
@@ -129,12 +129,9 @@ const portfolioCategories = [
     items: [
       {
         title: "Long Form Cut 01",
-        note: "Extended character-driven storytelling",
+        note: "Missing link for now",
         kicker: "Long Form",
-        kind: "drive-preview",
-        src: "https://drive.google.com/file/d/1qTA3PbLEGXBNJmQEwJqVY_wuwhJI2H6_/preview",
-        poster: "https://drive.google.com/thumbnail?id=1qTA3PbLEGXBNJmQEwJqVY_wuwhJI2H6_&sz=w1600",
-        source: "https://drive.google.com/file/d/1qTA3PbLEGXBNJmQEwJqVY_wuwhJI2H6_/view?usp=share_link"
+        source: "mailto:abhinaydev27@gmail.com"
       }
     ]
   },
